@@ -21,9 +21,7 @@ for ($i= 1; $i <= $n_max; $i++) {
 echo '<ul>'; 
 
 foreach ($numeros_aleatorios as $numero) {
-
   echo '<li>' . $numero . '</li>';
-
 };
 
 echo '</ul>';

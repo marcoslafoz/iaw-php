@@ -8,15 +8,15 @@
   - Muestra la frase en mayúsculas utilizando una función. strtoupper()
 */
 
-$frase = "Hola mundo, esto es PHP";
+$frase = 'Hola mundo, esto es PHP';
 
 $longitud = strlen($frase);
 
 for ($i = 0; $i < $longitud; $i++) {
-  echo $frase[$i] . "</br>";
+  echo $frase[$i] . '</br>';
 }
 
-$frase_inversa = "";
+$frase_inversa = '';
 
 for ($i = $longitud - 1; $i >= 0; $i--) {
   $frase_inversa .= $frase[$i];
@@ -24,9 +24,9 @@ for ($i = $longitud - 1; $i >= 0; $i--) {
 
 echo $frase_inversa;
 
-echo "</br>";
-echo "La frase tiene: " . $longitud . " caracteres.";
-echo "</br>";
+echo '</br>';
+echo 'La frase tiene: ' . $longitud . ' caracteres.';
+echo '</br>';
 
 echo 'Frase en mayusculas: ' . strtoupper($frase);
 
