@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Tienda Simple</title>
+  <title>Marcos Lafoz: Formulario con arrays</title>
   <style>
     body {
       font-family: Arial, Helvetica, sans-serif;
