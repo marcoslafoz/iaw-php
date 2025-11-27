@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "name": "Marcos",
+        "surname": "Lafoz",
+        "username": "marcos",
+        "password": "$2y$10$qOc7sj1DjwXOdSYD6XLGZevX28jNreoL5CzhV0ug5Uh7gPJfUNlx.",
+        "document": "50447492M",
+        "phone_number": "633333333"
+    }
+]
